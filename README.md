@@ -1,2 +1,2 @@
-# ExtraScale
-AutoScale Lite, evolved.
+![](ExtraScale/Assets/Banner.png)
+## AutoScale Lite, evolved.
